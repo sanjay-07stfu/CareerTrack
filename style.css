@@ -1,5 +1,20 @@
-*{
-    margin:0px;
+* {
+    margin: 0px;
     padding: 0px;
 }
 
+
+#main-logo {
+    height: 6rem;
+    object-fit: cover;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.fa-thin fa-less-than {
+    text-align: 0.3rem;
+}
