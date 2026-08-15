@@ -77,10 +77,4 @@ This project was built to strengthen my frontend development skills by implement
 
 ---
 
-## 👨‍💻 Author
 
-**Sanjay Yedage**
-
-Aspiring Full Stack Developer | AI Engineer | Frontend Developer
-
-If you like this project, don't forget to ⭐ the repository!
