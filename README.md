@@ -35,17 +35,6 @@ The application helps job seekers organize their applications, monitor interview
 
 ---
 
-## 📂 Project Structure
-
-CareerTrack/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-└── README.md
-
----
 
 ## 🎯 Purpose
 
