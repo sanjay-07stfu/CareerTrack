@@ -18,7 +18,57 @@
 .fa-thin fa-less-than {
     text-align: 0.3rem;
 }
-.sidebar{
-    width: 60px;
+
+.sidebar {
+    width: 150px;
 }
 
+body {
+    color: white;
+    background-color: rgba(34, 166, 232, 0.842);
+    display: flex;
+}
+
+.dashPage {
+    width: 200rem;
+    margin-left: 0.5rem;
+
+}
+
+ul {
+    margin-bottom: 1rem;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-logos p {
+    font-size: smaller;
+}
+
+.navbar {
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.searchBar{
+    border-radius: 5rem;
+    border:1px solid white;
+    padding: 1rem 1rem;
+    margin-left: 15rem;
+}
+
+.searchBar input{
+     font:
+    1rem "Fira Sans",
+    sans-serif;
+    color: white;
+    background-color: rgb(28, 175, 255);
+
+}
